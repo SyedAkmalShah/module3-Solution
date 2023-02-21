@@ -1,0 +1,50 @@
+body {
+  color: #1c1c20;
+  font-family: 'Oxygen', sans-serif;
+  font-weight: bold;
+  background-color: #000000;
+}
+
+#top {
+  font-size: larger;
+  color: rgb(43, 8, 241);
+}
+
+.text-center {
+  color: white;
+  text-decoration: double;
+  text-shadow: 2px 2px 3px #ffff00b7;
+}
+
+.navbar {
+  border: 0;
+  border-radius: 0; 
+}
+
+.navbar-default .navbar-brand{
+  color: #1c1c20;
+}
+
+h2 {
+  margin-top: 20px;
+}
+
+.flex {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+
+section {
+  border: 1px solid #000;
+  flex: 1;
+  min-width: 300px;
+  width: 900px;
+  margin-top: 7%;
+  margin-bottom: 3%;
+  color: #ffffff;
+  padding: 5%;
+  background-color: #ff00002f;
+  
+}
